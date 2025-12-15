@@ -1,6 +1,3 @@
-\\\\\\\\\\\\\\\\\\\\\\\\\
-|	AutoMiner	|
-\\\\\\\\\\\\\\\\\\\\\\\\\
 
 AutoMiner is a profit per day based auto algorithm switching written in python based on the code from cmswitcher found at https://github.com/emerzon/cmswitcher
 Ehancements include
